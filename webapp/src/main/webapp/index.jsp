@@ -30,8 +30,11 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in with your old account</a>.</p>
   </div>
+  <div class="forget password">
+      <p>forget your password? <a href="#">reset your password</a>.</p>
+    </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thank you, Happy Learning </h1>
 
   
 </form>
